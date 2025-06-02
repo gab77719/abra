@@ -1,0 +1,37 @@
+[33mcommit 74cc1d57f39235f55471b95cecef081c95b7823c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msobrenos[m[33m)[m
+Merge: 237589f e212987
+Author: GABRIEL ALVES DE OLIVEIRA <CG3037339@car.ifsp>
+Date:   Mon Jun 2 16:59:56 2025 -0300
+
+    autor criado
+
+[33mcommit 237589f8c4f2a7ac6b8687d85b07c06f6364c2a1[m
+Merge: fc39e51 cd11a20
+Author: GABRIEL ALVES DE OLIVEIRA <CG3037339@car.ifsp>
+Date:   Mon Jun 2 16:59:36 2025 -0300
+
+    addlogin criado
+
+[33mcommit fc39e5159874dba61a8b794569c12db40848c699[m
+Author: GABRIEL ALVES DE OLIVEIRA <CG3037339@car.ifsp>
+Date:   Mon Jun 2 16:58:38 2025 -0300
+
+    criando um sobre nós
+
+[33mcommit e212987fa1eccd13fc82d5b88a9ef0bee75ea402[m[33m ([m[1;32mautor[m[33m)[m
+Author: GABRIEL ALVES DE OLIVEIRA <CG3037339@car.ifsp>
+Date:   Mon Jun 2 16:54:31 2025 -0300
+
+    nome do mano foi alterado
+
+[33mcommit cd11a20c8442f762d965e5bdcec7a4b4f3aeb31f[m[33m ([m[1;32maddlogin[m[33m)[m
+Author: GABRIEL ALVES DE OLIVEIRA <CG3037339@car.ifsp>
+Date:   Mon Jun 2 16:51:17 2025 -0300
+
+    alteração e criação na navbar
+
+[33mcommit 6f877ecefe5cf4a67e15ac00c83eabc5cc89c3d8[m[33m ([m[1;32mmaster[m[33m)[m
+Author: GABRIEL ALVES DE OLIVEIRA <CG3037339@car.ifsp>
+Date:   Mon Jun 2 16:46:29 2025 -0300
+
+    inicio do site
